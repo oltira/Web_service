@@ -1,0 +1,5 @@
+C:\Users\micar\source\repos\Tiraboschi_Web_service\Tiraboschi_Web_service\obj\Debug\Tiraboschi_Web_service.csproj.AssemblyReference.cache
+C:\Users\micar\source\repos\Tiraboschi_Web_service\Tiraboschi_Web_service\obj\Debug\TEP_WebService.Form1.resources
+C:\Users\micar\source\repos\Tiraboschi_Web_service\Tiraboschi_Web_service\obj\Debug\Tiraboschi_Web_service.Properties.Resources.resources
+C:\Users\micar\source\repos\Tiraboschi_Web_service\Tiraboschi_Web_service\obj\Debug\Tiraboschi_Web_service.csproj.GenerateResource.cache
+C:\Users\micar\source\repos\Tiraboschi_Web_service\Tiraboschi_Web_service\obj\Debug\Tiraboschi_Web_service.csproj.CoreCompileInputs.cache
